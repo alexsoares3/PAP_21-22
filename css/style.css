@@ -1,0 +1,12 @@
+/* Empty CSS file for your own CSS */
+
+.jumbotron{
+    padding: 2em;
+    background-color: white;
+    border: 1px solid lightgray;
+}
+
+
+form button{
+    cursor: pointer;
+}
